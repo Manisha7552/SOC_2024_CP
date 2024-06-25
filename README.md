@@ -1,1 +1,1 @@
-# SOC_2024_CP
+# SOC_2024_Competitive programming
